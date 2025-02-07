@@ -92,7 +92,7 @@ h5,
 h6 {
   font-family: "Audrey";
   font-weight: 500;
-  color: #0e1927;
+  color: #d33a01;
 }
 
 h1,
@@ -497,7 +497,7 @@ a:hover {
 }
 
 .bg-st2 {
-  background: #0e1927 !important;
+  background: #d33a01 !important;
 }
 
 .wrap-fx {
@@ -834,7 +834,7 @@ form button {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  color: #0e1927;
+  color: #d33a01;
   padding: 30px 0;
 }
 .top-header .contact-left,
@@ -883,7 +883,7 @@ form button {
   width: 100%;
   z-index: 1000;
   height: 100px;
-  background-color: #0e1927;
+  background-color: #d33a01;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -945,7 +945,7 @@ form button {
   height: 5px;
 }
 .header.style-2 #site-header-inner .main-nav .menu li a {
-  color: #0e1927;
+  color: #d33a01;
 }
 .header.h82 {
   height: 82px;
@@ -958,7 +958,7 @@ form button {
   max-width: 1700px;
 }
 .header.style-3 .header__logo {
-  background: #0e1927;
+  background: #d33a01;
   position: relative;
   padding: 40px 45px;
 }
@@ -1063,7 +1063,7 @@ form button {
   position: absolute;
   right: -100%;
   top: 80px;
-  background: #0e1927;
+  background: #d33a01;
   text-align: center;
   padding: 136px 80px 136px 90px;
   -webkit-transition: all 0.3s ease;
@@ -1159,7 +1159,7 @@ form button {
 }
 
 .header.style-2 .btn-side span, .header.style-2 .btn-side::before, .header.style-2 .btn-side::after {
-  background: #0e1927;
+  background: #d33a01;
 }
 
 /* Header Fixed
@@ -1176,7 +1176,7 @@ form button {
   top: -100px;
   left: 0;
   width: 100%;
-  background: #0e1927;
+  background: #d33a01;
   box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1), inset 0px 1px 0px #ECECEC;
 }
 #header_main.is-fixed.is-fixed.is-small {
@@ -1252,13 +1252,13 @@ form button {
   color: #e6c9a2;
 }
 .tf-button.style1:hover {
-  color: #0e1927;
+  color: #d33a01;
   background-position: 96%;
 }
 .tf-button.style2 {
   background-image: linear-gradient(160deg, #e6c9a2 50%, #fff 50%);
   border: 1px solid #e6c9a2;
-  color: #0e1927;
+  color: #d33a01;
 }
 .tf-button.style2::before {
   background: #e6c9a2;
@@ -1273,16 +1273,16 @@ form button {
   background-position: 95%;
 }
 .tf-button.style3 {
-  background-image: linear-gradient(160deg, transparent 50%, #0e1927 50%);
-  border: 1px solid #0e1927;
-  color: #0e1927;
+  background-image: linear-gradient(160deg, transparent 50%, #d33a01 50%);
+  border: 1px solid #d33a01;
+  color: #d33a01;
   font-weight: 500;
   letter-spacing: 2px;
   padding: 0px 31px 0px 33px;
   line-height: 46px;
 }
 .tf-button.style3::before {
-  background: #0e1927;
+  background: #d33a01;
   bottom: -11px;
 }
 .tf-button.style3:hover {
@@ -1291,8 +1291,8 @@ form button {
 }
 .tf-button.style4 {
   background-image: linear-gradient(160deg, #fff 50%, #e6c9a2 50%);
-  border: 1px solid #0e1927;
-  color: #0e1927;
+  border: 1px solid #d33a01;
+  color: #d33a01;
 }
 .tf-button.style4::before {
   background: #fff;
@@ -1307,9 +1307,9 @@ form button {
 
 .readmore {
   text-transform: uppercase;
-  color: #0e1927;
+  color: #d33a01;
   padding-bottom: 3px;
-  border-bottom: 1px solid #0e1927;
+  border-bottom: 1px solid #d33a01;
 }
 .readmore i {
   margin-left: 7px;
@@ -1461,7 +1461,7 @@ form button {
   margin-right: -8px;
 }
 .home-4 .about-info .about-box {
-  background: #0e1927;
+  background: #d33a01;
   padding: 51px 47px 109px;
 }
 .home-4 .about-info .about-box h5 {
@@ -1483,7 +1483,7 @@ form button {
 .block-text .subtitle {
   font-size: 15px;
   text-transform: uppercase;
-  color: #0e1927;
+  color: #d33a01;
   letter-spacing: 2.7px;
   position: relative;
   display: inline-block;
@@ -1535,7 +1535,7 @@ form button {
   letter-spacing: 0.55px;
 }
 .opening .opening-content ul li span {
-  color: #0e1927;
+  color: #d33a01;
 }
 .opening .opening-content .d-flex {
   margin-top: 38px;
@@ -1599,11 +1599,11 @@ form button {
   font-family: "DM Sans", sans-serif;
   font-size: 20px;
   line-height: 1;
-  background: #0e1927;
+  background: #d33a01;
   padding-left: 15px;
 }
 .menu-list h5 .txt {
-  background: #0e1927;
+  background: #d33a01;
   padding-right: 15px;
 }
 .menu-list p {
@@ -1632,10 +1632,10 @@ form button {
   padding-right: 130px;
   line-height: 27px;
   letter-spacing: 0.15px;
-  color: #0e1927;
+  color: #d33a01;
 }
 .home-2 .opening-book {
-  background: #0e1927;
+  background: #d33a01;
   height: 583px;
   padding: 53px 30px;
   text-align: center;
@@ -1676,8 +1676,8 @@ form button {
   width: 100%;
   margin-top: 30px;
   background-image: linear-gradient(160deg, #fff 50%, #e6c9a2 50%);
-  border: 1px solid #0e1927;
-  color: #0e1927;
+  border: 1px solid #d33a01;
+  color: #d33a01;
   height: 50px;
 }
 .home-2 .opening-book form a::before {
@@ -1702,7 +1702,7 @@ form button {
 
 .s-menu {
   padding: 127px 0 134px;
-  background: #0e1927;
+  background: #d33a01;
   position: relative;
 }
 .s-menu .shape {
@@ -1862,7 +1862,7 @@ form button {
 .home-2 .s-menu .flat-tabs .menu-tab {
   position: absolute;
   flex-direction: column;
-  background: #0e1927;
+  background: #d33a01;
   padding: 48px 30px 63px;
   width: 376px;
   margin-left: 52px;
@@ -1918,10 +1918,10 @@ form button {
   padding-bottom: 10px;
 }
 .home-2 .s-menu .flat-tabs .content-tab h5 {
-  color: #0e1927;
+  color: #d33a01;
 }
 .home-2 .s-menu .flat-tabs .content-tab p {
-  color: #0e1927;
+  color: #d33a01;
 }
 .home-2 .s-menu .flat-tabs .content-tab .right-img {
   width: 427px;
@@ -1970,12 +1970,12 @@ form button {
 }
 .home-3 .s-menu .menu-content .block-text .subtitle,
 .home-4 .s-menu .menu-content .block-text .subtitle {
-  color: #0e1927;
+  color: #d33a01;
   margin-bottom: 21px;
 }
 .home-3 .s-menu .menu-content .block-text .title,
 .home-4 .s-menu .menu-content .block-text .title {
-  color: #0e1927;
+  color: #d33a01;
   margin-bottom: 13px;
 }
 .home-3 .s-menu .menu-content .block-text p:last-child,
@@ -2013,7 +2013,7 @@ form button {
 .home-3 .s-menu .menu-content .menu-main .menu-list h5 span,
 .home-4 .s-menu .menu-content .menu-main .menu-list h5 span {
   background: #fff;
-  color: #0e1927;
+  color: #d33a01;
   z-index: 2;
 }
 .home-3 .s-menu .menu-content .menu-main .menu-list p,
@@ -2191,7 +2191,7 @@ form button {
 }
 .home-4 .s-book.style-1 .book-content {
   padding: 128px 102px 139px;
-  background: #0e1927;
+  background: #d33a01;
 }
 .home-4 .s-book.style-1 .book-content::before {
   display: none;
@@ -2207,15 +2207,15 @@ form button {
   margin-bottom: 39px;
 }
 .home-4 .testimonials .testimonials-content h4 {
-  color: #0e1927;
+  color: #d33a01;
   margin-bottom: 28px;
 }
 .home-4 .testimonials .testimonials-content p {
   margin-bottom: 29px;
-  color: #0e1927;
+  color: #d33a01;
 }
 .home-4 .testimonials .testimonials-content h5 {
-  color: #0e1927;
+  color: #d33a01;
 }
 .home-4 .testimonials .testimonials-content ul {
   margin-bottom: 33px;
@@ -2283,7 +2283,7 @@ form button {
   }
 }
 .s-video .video-main .wrap-video i {
-  color: #0e1927;
+  color: #d33a01;
   font-size: 26px;
 }
 
@@ -2362,7 +2362,7 @@ form button {
   bottom: 4px;
   width: 0;
   height: 1px;
-  background: #0e1927;
+  background: #d33a01;
   -webkit-transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
   -ms-transition: all 0.3s ease;
@@ -2377,7 +2377,7 @@ form button {
   letter-spacing: 0.8px;
 }
 .choose .choose-content .flat-tabs .menu-tab li.active h5 {
-  color: #0e1927;
+  color: #d33a01;
 }
 .choose .choose-content .flat-tabs .menu-tab li.active::after {
   width: 100%;
@@ -2409,7 +2409,7 @@ form button {
   height: 131px;
   border-radius: 50%;
   background: #fff;
-  color: #0e1927;
+  color: #d33a01;
   text-align: center;
   text-transform: uppercase;
   font-size: 13px;
@@ -2426,7 +2426,7 @@ form button {
 
 .testimonials {
   padding: 136px 0 235px;
-  background: #0e1927;
+  background: #d33a01;
   position: relative;
   z-index: 1;
 }
@@ -2629,7 +2629,7 @@ form button {
 }
 
 .s-chef {
-  background: #0e1927;
+  background: #d33a01;
   padding: 134px 0 96px;
 }
 .s-chef .chef-main {
@@ -2801,10 +2801,10 @@ form button {
   color: #fff;
 }
 .booking .tf-button.style1 {
-  color: #0e1927;
+  color: #d33a01;
   width: 100%;
   margin-top: 35px;
-  background-image: linear-gradient(160deg, #fff 50%, #0e1927 50%);
+  background-image: linear-gradient(160deg, #fff 50%, #d33a01 50%);
   border: 1px solid #fff;
 }
 .booking .tf-button.style1::before {
@@ -2879,7 +2879,7 @@ form button {
   top: 0;
   left: 0;
   z-index: 2;
-  background: #0e1927;
+  background: #d33a01;
   text-align: center;
   padding: 22px 13px 18px;
 }
@@ -2932,7 +2932,7 @@ form button {
   height: 4px;
   min-width: 4px;
   border-radius: 50%;
-  background: #0e1927;
+  background: #d33a01;
 }
 .s-blog .blog-box .bottom-content ul li a {
   text-transform: uppercase;
@@ -2951,7 +2951,7 @@ form button {
 .s-blog .blog-box .bottom-content .btn-read {
   font-size: 13px;
   text-transform: uppercase;
-  color: #0e1927;
+  color: #d33a01;
   letter-spacing: 2.4px;
   position: relative;
 }
@@ -2962,7 +2962,7 @@ form button {
   left: 0;
   height: 1px;
   width: 83%;
-  background: #0e1927;
+  background: #d33a01;
 }
 .s-blog .blog-box .bottom-content .btn-read:hover {
   color: #e6c9a2;
@@ -2995,7 +2995,7 @@ form button {
   object-fit: cover;
 }
 .gallery-box .content {
-  background: #0e1927;
+  background: #d33a01;
   position: absolute;
   top: 40px;
   left: 25px;
@@ -3042,7 +3042,7 @@ form button {
 }
 .gallery-box .content .action:hover {
   background: #e6c9a2;
-  color: #0e1927;
+  color: #d33a01;
 }
 .gallery-box:hover .content {
   opacity: 1;
@@ -3063,7 +3063,7 @@ form button {
   object-fit: cover;
 }
 .portfolio-box .content {
-  background: #0e1927;
+  background: #d33a01;
   position: absolute;
   left: 29px;
   right: 29px;
@@ -3108,7 +3108,7 @@ form button {
 }
 .portfolio-box .content .action:hover {
   background: #e6c9a2;
-  color: #0e1927;
+  color: #d33a01;
 }
 .portfolio-box:hover .content {
   opacity: 1;
@@ -3207,7 +3207,7 @@ form button {
 }
 .couter-box .number-content {
   font-size: 60px;
-  color: #0e1927;
+  color: #d33a01;
   font-family: "Audrey";
   line-height: 1;
   margin-bottom: 6px;
@@ -3340,7 +3340,7 @@ form button {
   font-size: 15px;
   text-transform: uppercase;
   list-style-type: disc;
-  color: #0e1927;
+  color: #d33a01;
   letter-spacing: 1px;
   margin-bottom: 10px;
 }
@@ -3368,7 +3368,7 @@ form button {
   height: 108px;
   min-width: 108px;
   border-radius: 50%;
-  background: #0e1927;
+  background: #d33a01;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -3389,14 +3389,14 @@ form button {
   margin-bottom: 0;
 }
 .vouchers .vouchers-main .tf-button {
-  background-image: linear-gradient(160deg, #0e1927 50%, #fff 50%);
-  border: 1px solid #0e1927;
+  background-image: linear-gradient(160deg, #d33a01 50%, #fff 50%);
+  border: 1px solid #d33a01;
   color: #fff;
   font-weight: 400;
   padding: 0px 31px 0px 44px;
 }
 .vouchers .vouchers-main .tf-button:hover {
-  color: #0e1927;
+  color: #d33a01;
 }
 
 .gallery-ig {
@@ -3581,7 +3581,7 @@ form.s1 button:hover {
 
 .s-services {
   padding: 86px 0 61px;
-  background: #0e1927;
+  background: #d33a01;
 }
 .s-services .container {
   max-width: 1200px;
@@ -3636,7 +3636,7 @@ form.s1 button:hover {
   object-fit: cover;
 }
 .s-order .order-main .order.order-box {
-  background: #0e1927;
+  background: #d33a01;
   text-align: center;
   padding: 84px 30px 30px;
 }
@@ -3952,7 +3952,7 @@ form.s1 button:hover {
   padding: 136px 0 111px;
 }
 .p-about .s-services .services-box .content a {
-  color: #0e1927;
+  color: #d33a01;
 }
 .p-about .s-services .services-box .content p {
   color: #666666;
@@ -3978,7 +3978,7 @@ form.s1 button:hover {
 .p-about .event .event-main .event-content {
   max-height: 703px;
   width: 50%;
-  background: #0e1927;
+  background: #d33a01;
   padding: 128px 100px 132px 115px;
 }
 .p-about .event .event-main .event-content .flat-tabs {
@@ -4034,18 +4034,18 @@ form.s1 button:hover {
 }
 .p-about .s-chef .block-text.style-2 h3 {
   margin-bottom: 15px;
-  color: #0e1927;
+  color: #d33a01;
 }
 .p-about .s-chef .block-text.style-2 p {
   font-size: 15px;
-  color: #0e1927;
+  color: #d33a01;
   font-family: "DM Sans";
 }
 .p-about .s-chef .chef-box .info h5 {
-  color: #0e1927;
+  color: #d33a01;
 }
 .p-about .s-chef .chef-box .info p {
-  color: #0e1927;
+  color: #d33a01;
 }
 .p-about .testimonials {
   padding: 135px 0 117px;
@@ -4093,7 +4093,7 @@ form.s1 button:hover {
 }
 .careers .careers-main .careers-content {
   width: 59.8%;
-  background: #0e1927;
+  background: #d33a01;
   padding: 127px 150px 112px 192px;
 }
 .careers .careers-main .careers-content .block-text .title {
@@ -4174,7 +4174,7 @@ form.s1 button:hover {
   margin-bottom: 16px;
 }
 .s-faq .flat-accordion .flat-toggle .toggle-title {
-  background: #0e1927;
+  background: #d33a01;
   color: #fff;
   display: flex;
   align-items: center;
@@ -4185,7 +4185,7 @@ form.s1 button:hover {
   padding: 15px 18px;
   background: #e6c9a2;
   margin-right: 20px;
-  color: #0e1927;
+  color: #d33a01;
 }
 .s-faq .flat-accordion .flat-toggle .toggle-title span i {
   -webkit-transition: all 0.3s ease;
@@ -4203,10 +4203,10 @@ form.s1 button:hover {
 }
 .s-faq .flat-accordion .flat-toggle .toggle-content .title {
   font-size: 17px;
-  color: #0e1927;
+  color: #d33a01;
 }
 .s-faq .flat-accordion .flat-toggle .toggle-content p span {
-  color: #0e1927;
+  color: #d33a01;
   margin-right: 13px;
   font-size: 18px;
 }
@@ -4218,16 +4218,16 @@ form.s1 button:hover {
   margin-bottom: 8px;
 }
 .s-faq .flat-accordion.style-1 .flat-toggle.active {
-  border-bottom: 1px solid #0e1927;
+  border-bottom: 1px solid #d33a01;
 }
 .s-faq .flat-accordion.style-1 .flat-toggle .toggle-title {
   background: transparent;
-  color: #0e1927;
+  color: #d33a01;
   font-family: "Audrey";
   text-transform: uppercase;
   font-size: 17px;
   position: relative;
-  border-bottom: 1px solid #0e1927;
+  border-bottom: 1px solid #d33a01;
   padding: 16px 0 22.5px;
 }
 .s-faq .flat-accordion.style-1 .flat-toggle .toggle-title .icon {
@@ -4252,7 +4252,7 @@ form.s1 button:hover {
   margin-bottom: 0;
 }
 .s-faq .flat-accordion.style-1.style-2 .toggle-title {
-  background: #0e1927;
+  background: #d33a01;
   padding: 24px 33px !important;
   border-bottom: 1px solid rgba(200, 200, 200, 0.149);
   color: #e6c9a2;
@@ -4264,11 +4264,11 @@ form.s1 button:hover {
 .s-faq .flat-accordion.style-1.style-2 .toggle-title.active {
   border: none;
   background: rgb(230, 201, 162);
-  color: #0e1927;
+  color: #d33a01;
   border-bottom: 1px solid #e6c9a2;
 }
 .s-faq .flat-accordion.style-1.style-2 .toggle-title.active .icon {
-  color: #0e1927;
+  color: #d33a01;
 }
 .s-faq .flat-accordion.style-1.style-2 .toggle-content {
   background: rgba(200, 200, 200, 0.149);
@@ -4541,7 +4541,7 @@ form.s1 button:hover {
 }
 .history-box .content .time {
   font-size: 20px;
-  color: #0e1927;
+  color: #d33a01;
   font-weight: 700;
 }
 .history-box .content p {
@@ -4576,7 +4576,7 @@ form.s1 button:hover {
 .location-box .box {
   margin: 0 15px;
   width: calc((100% - 444px) / 2);
-  background: #0e1927;
+  background: #d33a01;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -4621,7 +4621,7 @@ form.s1 button:hover {
 .location-box .box .tf-button1 {
   width: 100%;
   background: #e6c9a2;
-  color: #0e1927;
+  color: #d33a01;
   font-size: 13px;
   text-transform: uppercase;
   font-family: "DM Sans";
@@ -4669,7 +4669,7 @@ form.s1 button:hover {
   height: 92px;
   min-width: 92px;
   border-radius: 50%;
-  background: #0e1927;
+  background: #d33a01;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -4686,7 +4686,7 @@ form.s1 button:hover {
 }
 .gift-vouchers .gift-vouchers-main p {
   font-size: 17px;
-  color: #0e1927;
+  color: #d33a01;
   line-height: 30px;
   margin-bottom: 12px;
 }
@@ -4707,12 +4707,12 @@ form.s1 button:hover {
 }
 .s-gift-vouchers .s-gift-vouchers-list .top select {
   background-color: #fff;
-  border: 1px solid #0e1927;
+  border: 1px solid #d33a01;
   border-radius: 0;
   width: auto;
   padding: 14px 151px 13px 13px;
   font-size: 15px;
-  color: #0e1927;
+  color: #d33a01;
   letter-spacing: 1px;
 }
 .s-gift-vouchers .s-gift-vouchers-list .top p {
@@ -4745,7 +4745,7 @@ form.s1 button:hover {
   right: 0;
   bottom: 0;
   padding: 10px 24px 10px 33px;
-  background: #0e1927;
+  background: #d33a01;
   border-top-left-radius: 40px;
 }
 .s-gift-vouchers .s-gift-vouchers-list .main .gift-vouchers-box .img .price h5 {
@@ -4771,7 +4771,7 @@ form.s1 button:hover {
 }
 .s-gift-vouchers .s-gift-vouchers-list .main .gift-vouchers-box .content .title {
   font-size: 20px;
-  color: #0e1927;
+  color: #d33a01;
   text-transform: uppercase;
   font-weight: 700;
   letter-spacing: 1px;
@@ -4898,7 +4898,7 @@ form.s1 button:hover {
   padding-left: 15px;
 }
 .vouchers-details .vouchers-details-main .right .card-box {
-  background: #0e1927;
+  background: #d33a01;
   padding: 31px 30px 40px;
   margin-bottom: 50px;
 }
@@ -4951,20 +4951,20 @@ form.s1 button:hover {
   width: 100%;
   text-align: center;
   background: #fff;
-  color: #0e1927;
+  color: #d33a01;
 }
 .vouchers-details .vouchers-details-main .right .card-box .main .tf-button::before {
   background: #fff;
 }
 .vouchers-details .vouchers-details-main .right .card-box .main .tf-button:hover {
   background-color: #e6c9a2;
-  color: #0e1927;
+  color: #d33a01;
 }
 .vouchers-details .vouchers-details-main .right .question {
   background: rgb(249, 241, 232);
 }
 .vouchers-details .vouchers-details-main .right .question .top {
-  background: #0e1927;
+  background: #d33a01;
   padding: 28px 30px 23px;
 }
 .vouchers-details .vouchers-details-main .right .question .top h5 {
@@ -4990,9 +4990,9 @@ form.s2 {
 }
 form.s2 .form-group input,
 form.s2 .form-group textarea {
-  border: 1px solid #0e1927;
+  border: 1px solid #d33a01;
   border-radius: 0;
-  color: #0e1927;
+  color: #d33a01;
   margin-bottom: 19px;
   box-shadow: none;
   background: #fff;
@@ -5003,7 +5003,7 @@ form.s2 .form-group textarea:focus {
 }
 form.s2 .form-group input::placeholder,
 form.s2 .form-group textarea::placeholder {
-  color: #0e1927;
+  color: #d33a01;
 }
 form.s2 .form-group textarea {
   height: 186px;
@@ -5012,11 +5012,11 @@ form.s2 a {
   margin: 0 auto;
   display: inline-block;
   margin-top: 35px;
-  border-color: #0e1927;
-  color: #0e1927;
+  border-color: #d33a01;
+  color: #d33a01;
 }
 form.s2 a::before {
-  background: #0e1927;
+  background: #d33a01;
 }
 
 .s-contact {
@@ -5046,7 +5046,7 @@ form.s2 a::before {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: #0e1927;
+  background: #d33a01;
   margin: 0 auto 25px;
   width: 70px;
   height: 70px;
@@ -5193,16 +5193,16 @@ form.s2 a::before {
   line-height: 24px;
 }
 .s-blog.blog-list .blog-form .block-text form.s1 input {
-  border: 1px solid #0e1927;
+  border: 1px solid #d33a01;
   background: #fff;
-  color: #0e1927;
+  color: #d33a01;
   height: 46px;
 }
 .s-blog.blog-list .blog-form .block-text form.s1 input::placeholder {
-  color: #0e1927;
+  color: #d33a01;
 }
 .s-blog.blog-list .blog-form .block-text form.s1 i {
-  color: #0e1927;
+  color: #d33a01;
 }
 .s-blog.blog-list .blog-main {
   padding: 126px 0 0;
@@ -5279,16 +5279,16 @@ form.s2 a::before {
   margin-top: 43px;
 }
 .blog-sidebar .blog-sidebar-main .main-sidebar .widget form.s1 input {
-  border-color: #0e1927;
+  border-color: #d33a01;
   line-height: 16px;
   padding: 14px 18px;
   color: #1c1c1c;
 }
 .blog-sidebar .blog-sidebar-main .main-sidebar .widget form.s1 input::placeholder {
-  color: #0e1927;
+  color: #d33a01;
 }
 .blog-sidebar .blog-sidebar-main .main-sidebar .widget form.s1 button {
-  background: #0e1927;
+  background: #d33a01;
   top: 0;
   right: 0;
   padding: 8px 14px;
@@ -5299,7 +5299,7 @@ form.s2 a::before {
   color: #e6c9a2;
 }
 .blog-sidebar .blog-sidebar-main .main-sidebar .widget .heading-top {
-  background: #0e1927;
+  background: #d33a01;
   padding: 20px 30px;
 }
 .blog-sidebar .blog-sidebar-main .main-sidebar .widget .heading-top h5 {
@@ -5340,7 +5340,7 @@ form.s2 a::before {
 }
 .blog-sidebar .blog-sidebar-main .main-sidebar .widget.category .content ul li a {
   font-size: 17px;
-  color: #0e1927;
+  color: #d33a01;
 }
 .blog-sidebar .blog-sidebar-main .main-sidebar .widget.category .content ul li:hover, .blog-sidebar .blog-sidebar-main .main-sidebar .widget.category .content ul li.active {
   padding-left: 22px;
@@ -5354,7 +5354,7 @@ form.s2 a::before {
 .blog-sidebar .blog-sidebar-main .main-sidebar .widget.latest .content ul li {
   margin-bottom: 28px;
   align-items: center;
-  border-bottom: 1px solid #0e1927;
+  border-bottom: 1px solid #d33a01;
   padding-bottom: 23px;
   padding-right: 10px;
   display: flex;
@@ -5379,7 +5379,7 @@ form.s2 a::before {
   font-size: 15px;
   font-family: "Audrey";
   text-transform: uppercase;
-  color: #0e1927;
+  color: #d33a01;
 }
 .blog-sidebar .blog-sidebar-main .main-sidebar .widget.latest .content ul li .info .meta {
   font-size: 15px;
@@ -5400,13 +5400,13 @@ form.s2 a::before {
 }
 .blog-sidebar .blog-sidebar-main .main-sidebar .widget.tag .content ul li a {
   font-size: 13px;
-  color: #0e1927;
+  color: #d33a01;
   border: 1px solid #e6c9a2;
   padding: 4px 24px 3px;
 }
 .blog-sidebar .blog-sidebar-main .main-sidebar .widget.tag .content ul li a:hover, .blog-sidebar .blog-sidebar-main .main-sidebar .widget.tag .content ul li a.active {
-  background: #0e1927;
-  border-color: #0e1927;
+  background: #d33a01;
+  border-color: #d33a01;
   color: #e6c9a2;
 }
 .blog-sidebar .blog-sidebar-main .main-sidebar .widget.newletters .content {
@@ -5435,7 +5435,7 @@ form.s2 a::before {
   object-fit: cover;
 }
 .blog-box-2 .meta {
-  background: #0e1927;
+  background: #d33a01;
   padding: 15px 30px 13px;
   margin-bottom: 25px;
 }
@@ -5459,7 +5459,7 @@ form.s2 a::before {
   font-size: 25px;
   line-height: 42px;
   text-transform: uppercase;
-  color: #0e1927;
+  color: #d33a01;
   letter-spacing: 1px;
   margin-bottom: 11px;
 }
@@ -5477,7 +5477,7 @@ form.s2 a::before {
 }
 
 .blog-box-3 {
-  background: #0e1927;
+  background: #d33a01;
   padding: 47px 70px 43px;
   text-align: center;
   margin-bottom: 75px;
@@ -5523,7 +5523,7 @@ form.s2 a::before {
   width: 49px;
   height: 49px;
   background: #fff;
-  border: 1px solid #0e1927;
+  border: 1px solid #d33a01;
   margin-right: 10px;
   display: flex;
   align-items: center;
@@ -5535,7 +5535,7 @@ form.s2 a::before {
   transition: all 0.3s ease;
 }
 .pagination li.active, .pagination li:hover {
-  background: #0e1927;
+  background: #d33a01;
 }
 .pagination li.active a, .pagination li:hover a {
   color: #fff;
@@ -5582,7 +5582,7 @@ form.s2 a::before {
 .search-form .input-box .search {
   font-size: 20px;
   font-weight: 400;
-  color: #0e1927;
+  color: #d33a01;
   position: absolute;
   top: 0;
   left: 0;
@@ -5660,7 +5660,7 @@ form.s2 a::before {
 .blog-creative .blog-creative-main .top .time {
   background: #e6c9a2;
   padding: 6px 22px 6px 29px;
-  color: #0e1927;
+  color: #d33a01;
   font-size: 13px;
   line-height: 22px;
   margin-bottom: 0;
@@ -5758,7 +5758,7 @@ form.s2 a::before {
 
 .popular-posts {
   padding: 129px 0 311px;
-  background: #0e1927;
+  background: #d33a01;
 }
 .popular-posts .block-text .subtitle {
   margin-bottom: 23px;
@@ -5840,17 +5840,17 @@ form.s2 a::before {
   margin: 0;
 }
 .s-formmail-2 .formmail-content form.s1 .form-group input {
-  border-color: #0e1927;
+  border-color: #d33a01;
   padding: 12px 19px;
-  color: #0e1927;
+  color: #d33a01;
   font-size: 13px;
   margin-bottom: 28px;
 }
 .s-formmail-2 .formmail-content form.s1 .form-group input::placeholder {
-  color: #0e1927;
+  color: #d33a01;
 }
 .s-formmail-2 .formmail-content form.s1 button {
-  color: #0e1927;
+  color: #d33a01;
 }
 .s-formmail-2 .formmail-content form.s1 .form-check {
   display: flex;
@@ -5859,10 +5859,10 @@ form.s2 a::before {
 }
 .s-formmail-2 .formmail-content form.s1 .form-check input {
   margin-right: 15px;
-  border: 1px solid #0e1927;
+  border: 1px solid #d33a01;
 }
 .s-formmail-2 .formmail-content form.s1 .form-check .form-check-label {
-  color: #0e1927;
+  color: #d33a01;
   letter-spacing: 0.4px;
 }
 .s-formmail-2 .formmail-content .block-text {
@@ -5909,14 +5909,14 @@ form.s2 a::before {
 .blog-box-4 .content .category {
   text-transform: uppercase;
   font-size: 13px;
-  color: #0e1927;
+  color: #d33a01;
   letter-spacing: 1.2px;
   margin-bottom: 11px;
 }
 .blog-box-4 .content .title {
   font-size: 20px;
   text-transform: uppercase;
-  color: #0e1927;
+  color: #d33a01;
   letter-spacing: 1px;
   margin-bottom: 21px;
 }
@@ -5929,7 +5929,7 @@ form.s2 a::before {
 .blog-box-4 .content .meta {
   display: flex;
   font-size: 13px;
-  color: #0e1927;
+  color: #d33a01;
 }
 .blog-box-4 .content .meta li {
   margin-right: 34px;
@@ -6078,11 +6078,11 @@ form.s2 a::before {
   width: 37px;
   height: 37px;
   min-width: 37px;
-  border-color: #0e1927;
-  color: #0e1927;
+  border-color: #d33a01;
+  color: #d33a01;
 }
 .blog-single .bottom .share .list-social li a:hover {
-  background: #0e1927;
+  background: #d33a01;
   color: #fff;
 }
 .blog-single .comment h4 {
@@ -6134,7 +6134,7 @@ form.s2 a::before {
   position: absolute;
   right: 0;
   top: 20px;
-  background: #0e1927;
+  background: #d33a01;
   color: #e6c9a2;
   font-size: 13px;
   padding: 4px 17px;
@@ -6157,22 +6157,22 @@ form.s2 a::before {
 }
 .blog-single .post-comment form input,
 .blog-single .post-comment form textarea {
-  border: 1px solid #0e1927;
+  border: 1px solid #d33a01;
   border-radius: 0;
   padding: 11px 18px;
-  color: #0e1927;
+  color: #d33a01;
   font-size: 13px;
 }
 .blog-single .post-comment form input::placeholder,
 .blog-single .post-comment form textarea::placeholder {
-  color: #0e1927;
+  color: #d33a01;
 }
 .blog-single .post-comment form .form-group {
   margin-bottom: 23px;
 }
 .blog-single .post-comment form button {
   margin-top: 27px;
-  background-image: linear-gradient(160deg, transparent 50%, #0e1927 50%);
+  background-image: linear-gradient(160deg, transparent 50%, #d33a01 50%);
   background-color: transparent;
 }
 
@@ -6196,16 +6196,16 @@ form.s2 a::before {
   letter-spacing: 0.5px;
 }
 .s-blog.blog-fullwidth .block-text form.s1 input {
-  border: 1px solid #0e1927;
+  border: 1px solid #d33a01;
   background: #fff;
-  color: #0e1927;
+  color: #d33a01;
   height: 46px;
 }
 .s-blog.blog-fullwidth .block-text form.s1 input::placeholder {
-  color: #0e1927;
+  color: #d33a01;
 }
 .s-blog.blog-fullwidth .block-text form.s1 i {
-  color: #0e1927;
+  color: #d33a01;
 }
 
 .blog-fullwidth-main {
@@ -6252,7 +6252,7 @@ form.s2 a::before {
   bottom: 21px;
   right: 27px;
   z-index: 2;
-  background: #0e1927;
+  background: #d33a01;
   text-align: center;
   padding: 22px 18px 15px;
 }
@@ -6280,7 +6280,7 @@ form.s2 a::before {
   text-transform: uppercase;
   letter-spacing: 1.2px;
   margin-bottom: 15px;
-  color: #0e1927;
+  color: #d33a01;
 }
 .blog-box-5 .bottom-content .title:hover {
   color: #e6c9a2;
@@ -6304,7 +6304,7 @@ form.s2 a::before {
   width: 35%;
 }
 .blog-box-5 .right .right-box {
-  background: #0e1927;
+  background: #d33a01;
   padding: 26px 33px 23px 44px;
   width: 370px;
   margin: 6px 0 0 auto;
@@ -6346,13 +6346,13 @@ form.s2 a::before {
 }
 .blog-box-5 .right .right-box .box-list li.share .list-social li a:hover {
   background: #e6c9a2;
-  color: #0e1927;
+  color: #d33a01;
 }
 
 .blog-box-6 {
   padding: 75px 242px 62px 69px;
   position: relative;
-  background: #0e1927;
+  background: #d33a01;
   margin-bottom: 75px;
 }
 .blog-box-6 .text {
@@ -6427,7 +6427,7 @@ form.s2 a::before {
   margin: 0 32px;
 }
 .portfolio-carousel .portfolio-carousel-1 .flat-tabs .menu-tab li h5 {
-  color: #0e1927;
+  color: #d33a01;
 }
 .portfolio-carousel .portfolio-carousel-1 .swiper-container-horizontal > .swiper-pagination-bullets,
 .portfolio-carousel .portfolio-carousel-1 .swiper-pagination-custom,
@@ -6440,7 +6440,7 @@ form.s2 a::before {
 .portfolio-carousel .portfolio-carousel-1 .swiper-pagination-custom .swiper-pagination-bullet,
 .portfolio-carousel .portfolio-carousel-1 .swiper-pagination-fraction .swiper-pagination-bullet {
   margin: 0 6px;
-  background: #0e1927;
+  background: #d33a01;
 }
 .portfolio-carousel .portfolio-carousel-2 {
   padding: 95px 15px 0;
@@ -6459,7 +6459,7 @@ form.s2 a::before {
   margin: 0 35px;
 }
 .portfolio-carousel .portfolio-carousel-2 .flat-tabs .menu-tab li h5 {
-  color: #0e1927;
+  color: #d33a01;
 }
 .portfolio-carousel .portfolio-carousel-2 .testimonialPortfolio1 {
   padding: 0 15px;
@@ -6479,7 +6479,7 @@ form.s2 a::before {
 .portfolio-carousel .portfolio-carousel-2 .swiper-pagination-custom .swiper-pagination-bullet,
 .portfolio-carousel .portfolio-carousel-2 .swiper-pagination-fraction .swiper-pagination-bullet {
   margin: 0 6px;
-  background: #0e1927;
+  background: #d33a01;
 }
 .portfolio-carousel .portfolio-carousel-3 {
   padding: 102px 0 135px;
@@ -6502,7 +6502,7 @@ form.s2 a::before {
   margin: 0 35px;
 }
 .portfolio-carousel .portfolio-carousel-3 .flat-tabs .menu-tab li h5 {
-  color: #0e1927;
+  color: #d33a01;
 }
 .portfolio-carousel .portfolio-carousel-3 .swiper-button-next {
   position: absolute;
@@ -6512,7 +6512,7 @@ form.s2 a::before {
   height: 110px;
   border-radius: 50%;
   background: #fff;
-  color: #0e1927;
+  color: #d33a01;
   text-align: center;
   text-transform: uppercase;
   font-size: 13px;
@@ -6555,7 +6555,7 @@ form.s2 a::before {
   object-fit: cover;
 }
 .portfolio-box-1 .content {
-  background: #0e1927;
+  background: #d33a01;
   position: absolute;
   left: 37px;
   right: 26px;
@@ -6622,7 +6622,7 @@ form.s2 a::before {
 }
 .portfolio-box-1 .content .action:hover {
   background: #e6c9a2;
-  color: #0e1927;
+  color: #d33a01;
 }
 .portfolio-box-1:hover .content {
   padding: 62px 40px 67px 40px;
@@ -6640,7 +6640,7 @@ form.s2 a::before {
   padding: 62px 40px 0px 40px;
 }
 .portfolio-box-1.style-2 .content .name {
-  color: #0e1927;
+  color: #d33a01;
   margin-bottom: 0;
 }
 .portfolio-box-1.style-2 .content .cate {
@@ -6648,7 +6648,7 @@ form.s2 a::before {
 }
 .portfolio-box-1.style-2:hover .content {
   bottom: -73px;
-  background: #0e1927;
+  background: #d33a01;
   padding: 70px 40px 71px 40px;
 }
 .portfolio-box-1.style-2:hover .content .name {
@@ -6710,7 +6710,7 @@ form.s2 a::before {
   object-fit: cover;
 }
 .portfolio-mansonry .portfolio-box-2 .content {
-  background: #0e1927;
+  background: #d33a01;
   position: absolute;
   left: 29px;
   right: 29px;
@@ -6821,7 +6821,7 @@ form.s2 a::before {
   margin-left: 12px;
 }
 .portfolio-details .portfolio-details-main .content .right .details .top {
-  background: #0e1927;
+  background: #d33a01;
   padding: 24px 30px;
 }
 .portfolio-details .portfolio-details-main .content .right .details .top h6 {
@@ -6837,7 +6837,7 @@ form.s2 a::before {
   margin-bottom: 20px;
 }
 .portfolio-details .portfolio-details-main .content .right .details .main ul li h6 {
-  color: #0e1927;
+  color: #d33a01;
   text-transform: uppercase;
   margin-bottom: 2px;
 }
@@ -6854,15 +6854,15 @@ form.s2 a::before {
   width: 35px;
   height: 35px;
   min-width: 35px;
-  color: #0e1927;
+  color: #d33a01;
 }
 .portfolio-details .portfolio-details-main .content .right .details .main ul li .list-social li a:hover {
-  background: #0e1927;
+  background: #d33a01;
   color: #e6c9a2;
 }
 
 .s-menu-list {
-  background: #0e1927;
+  background: #d33a01;
   padding: 144px 0 0;
 }
 .s-menu-list .swiper-container-horizontal > .swiper-pagination-bullets,
@@ -6874,7 +6874,7 @@ form.s2 a::before {
 .s-menu-list .swiper-pagination-custom .swiper-pagination-bullet,
 .s-menu-list .swiper-pagination-fraction .swiper-pagination-bullet {
   margin: 0 6px;
-  background: #0e1927;
+  background: #d33a01;
 }
 .s-menu-list .container {
   overflow: visible;
@@ -6957,7 +6957,7 @@ form.s2 a::before {
 }
 .s-menu.p-list .block-text .subtitle {
   margin-bottom: 20px;
-  color: #0e1927;
+  color: #d33a01;
   display: block;
   text-align: center;
   margin-bottom: 20px !important;
@@ -7010,16 +7010,16 @@ form.s2 a::before {
 
 .location-main .form-control {
   background: transparent;
-  border: 1px solid #0e1927;
+  border: 1px solid #d33a01;
   border-radius: 0;
-  color: #0e1927;
+  color: #d33a01;
   box-shadow: none;
   padding: 14px;
   font-size: 15px;
   line-height: 21px;
 }
 .location-main .form-control::placeholder {
-  color: #0e1927;
+  color: #d33a01;
 }
 
 .p-contact .location.s2 {
@@ -7300,7 +7300,7 @@ form.s2 a::before {
 .mySwiper .contact-info {
   width: 611px;
   height: 179px;
-  background: #0e1927;
+  background: #d33a01;
   position: absolute;
   right: 0;
   bottom: 0;
@@ -7631,7 +7631,7 @@ form.s2 a::before {
 }
 
 .header.style-2 .mobile-button:before, .header.style-2 .mobile-button:after, .header.style-2 .mobile-button span {
-  background-color: #0e1927;
+  background-color: #d33a01;
 }
 
 .menu-bar {
@@ -7739,7 +7739,7 @@ form.s2 a::before {
 /* footer
 -------------------------------------------------------------- */
 .footer {
-  background: #0e1927;
+  background: #d33a01;
   padding: 130px 0 16px;
 }
 .footer .container {
@@ -7958,7 +7958,7 @@ form.s2 a::before {
 }
 .list-social li a:hover {
   background: #e6c9a2;
-  color: #0e1927;
+  color: #d33a01;
 }
 
 footer.style-2 .list-social {
@@ -7976,38 +7976,38 @@ footer.style-2.bg-white {
   padding-left: 15px;
 }
 footer.style-2.bg-white h5 {
-  color: #0e1927;
+  color: #d33a01;
 }
 footer.style-2.bg-white .widget {
   border-color: #dedede;
 }
 footer.style-2.bg-white .widget p {
-  color: #0e1927;
+  color: #d33a01;
 }
 footer.style-2.bg-white .widget li {
-  color: #0e1927;
+  color: #d33a01;
 }
 footer.style-2.bg-white .widget li p {
   color: #666666 !important;
 }
 footer.style-2.bg-white .widget li p span {
-  color: #0e1927 !important;
+  color: #d33a01 !important;
 }
 footer.style-2.bg-white .list-social li a {
-  border-color: #0e1927;
-  color: #0e1927;
+  border-color: #d33a01;
+  color: #d33a01;
 }
 footer.style-2.bg-white .list-social li a:hover {
   border-color: #e6c9a2;
 }
 footer.style-2.bg-white .bottom-main p {
-  color: #0e1927;
+  color: #d33a01;
 }
 footer.style-2.bg-white .bottom-main ul li {
   margin-left: 38px;
 }
 footer.style-2.bg-white .bottom-main ul li a {
-  color: #0e1927;
+  color: #d33a01;
   font-size: 13px;
   line-height: 27px;
   letter-spacing: 1.2px;
@@ -10702,7 +10702,7 @@ img.mfp-img {
     display: none;
   }
   .vouchers .vouchers-content .content {
-    border-bottom: 1px solid #0e1927;
+    border-bottom: 1px solid #d33a01;
   }
   .couter-box::after {
     display: none;
@@ -11219,12 +11219,12 @@ img.mfp-img {
   width: 350px;
   position: relative;
   z-index: 100;
-  background: #0e1927;
+  background: #d33a01;
 }
 .page-menu1-wrap .sidebar {
   width: 350px;
   height: auto;
-  background: #0e1927;
+  background: #d33a01;
   text-align: center;
   padding: 191px 0;
 }
